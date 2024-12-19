@@ -2,11 +2,11 @@
 
 # Bank Loan Insights - Power BI Dashboard 📊
 
-Overview 🏦
+# Overview 🏦
 
 This repository contains a Power BI Dashboard for Advanced Bank Loan Data Analysis. It delivers dynamic insights into lending operations, borrower demographics, loan performance, and financial metrics. The dashboard helps decision-makers drive strategic business actions using data-driven intelligence.
 
-Key Features ✨
+# Key Features ✨
 
 Executive Summary: A snapshot of key loan metrics like total applications, funded amount, and received amount.
 
@@ -18,7 +18,7 @@ Monthly & Regional Insights: Loan applications by month, state, and loan term.
 
 Borrower Demographics: Insights into homeownership, employment length, and debt-to-income ratios.
 
-Use Cases 💼
+# Use Cases 💼
 
 Banking Professionals: Monitor loan performance and assess financial risks.
 
@@ -26,7 +26,7 @@ Data Analysts: Derive actionable insights from loan data.
 
 Executives: Make informed decisions backed by visualized financial data.
 
-Installation and Setup 🚀
+# Installation and Setup 🚀
 
 Step 1: Install Power BI Desktop 🖥️
 
@@ -52,11 +52,11 @@ Use filters, slicers, and interactive visuals.
 
 Analyze loan trends by selecting specific time periods, states, or borrower profiles.
 
-Contributing 🤝
+# Contributing 🤝
 
 Contributions are welcome! Feel free to submit issues or create pull requests.
 
-License 📜
+# License 📜
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
